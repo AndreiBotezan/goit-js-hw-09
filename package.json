@@ -1,21 +1,21 @@
 {
-  "name": "goit-js-hw-08",
+  "name": "goit-js-hw-09",
   "version": "1.0.0",
   "description": "(https://parceljs.org/).",
-  "homepage": "https://andreibotezan.github.io/goit-js-hw-08/",
+  "homepage": "https://andreibotezan.github.io/goit-js-hw-09/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://andreibotezan.github.io/goit-js-hw-08/"
+    "url": "git+https://andreibotezan.github.io/goit-js-hw-09/"
   },
   "keywords": [],
   "author": "Andrei Botezan",
   "license": "ISC",
   "bugs": {
-    "url": "https://andreibotezan.github.io/goit-js-hw-08/issues"
+    "url": "https://andreibotezan.github.io/goit-js-hw-09/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.20.1",
@@ -30,5 +30,4 @@
     "posthtml-include": "^1.7.4"
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
-
 }
