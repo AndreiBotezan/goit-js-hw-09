@@ -17,7 +17,21 @@ img {
   max-width: 100%;
 }
 
-/* .field {
+.exercise-list {
+  list-style-type: none;
+}
+
+a:link {
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+a:hover {
+  color:red;
+}
+
+.field {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -36,4 +50,4 @@ img {
 
 .label {
   font-size: small;
-} */
+}
